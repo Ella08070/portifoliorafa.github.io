@@ -8,12 +8,12 @@
 </head>
 <body>
     <header>
-        <h1>Seu Nome</h1>
-        <p>Desenvolvedor Web</p>
+        <h1>Rafaella Guerra</h1>
+        <p>Portifolio Web</p>
     </header>
 
     <section id="about">
-        <h2>Sobre Mim</h2>
+        <h2>Sobre o site</h2>
         <p>Apresentaremos aqui o seu portifolio semestral na pucpr!.</p>
     </section>
 
