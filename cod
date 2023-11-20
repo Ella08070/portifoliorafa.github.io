@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Seu Nome - Portfólio</title>
+</head>
+<body>
+    <header>
+        <h1>Seu Nome</h1>
+        <p>Desenvolvedor Web</p>
+    </header>
+
+    <section id="about">
+        <h2>Sobre Mim</h2>
+        <p>Apresentaremos aqui o seu portifolio semestral na pucpr!.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projetos</h2>
+        <p>Ciberfisica, Resolucao matematica, Experiencia criativa, Filosofia e Algoritimo e.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contato</h2>
+        <p>Email: rafaella.somoza@pucpr.edu.br</p>
+    </section>
+</body>
+</html>
+
